@@ -1,2 +1,2 @@
-# Toy-HNG-01410.js-script
+# Toy-HNG-01410.js
 Toy-HNG-01410.js script
